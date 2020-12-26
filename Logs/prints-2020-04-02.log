@@ -1,0 +1,28 @@
+18:10:17.323 [main] INFO  org.jsoup.Connection$Base - CCO login
+18:10:23.261 [main] INFO  org.jsoup.Connection$Base - CCO DASHBOARD
+18:10:28.626 [main] INFO  org.jsoup.Connection$Base - CCO Select All Parameters
+18:11:18.440 [main] INFO  org.jsoup.Connection$Base - CCO Work Is Done
+18:11:35.772 [main] INFO  org.jsoup.Connection$Base - CRO login
+18:11:39.054 [main] INFO  org.jsoup.Connection$Base - CRO DASHBOARD
+18:12:12.575 [main] INFO  org.jsoup.Connection$Base - CRO Select All Parameters
+18:12:14.860 [main] INFO  org.jsoup.Connection$Base - CRO Select All Parameters
+18:12:17.222 [main] INFO  org.jsoup.Connection$Base - CRO Work Is Done
+18:12:42.901 [main] INFO  org.jsoup.Connection$Base - BDO login
+18:12:44.386 [main] INFO  org.jsoup.Connection$Base - BDO DASHBOARD
+18:13:09.889 [main] INFO  org.jsoup.Connection$Base - BDO Select All Parameters
+18:13:10.117 [main] INFO  org.jsoup.Connection$Base - BDO Enter Comment
+18:13:14.422 [main] INFO  org.jsoup.Connection$Base - BDO Work Is Done
+19:05:52.776 [main] INFO  org.jsoup.Connection$Base - CCO login
+19:05:53.943 [main] INFO  org.jsoup.Connection$Base - CCO DASHBOARD
+19:05:58.355 [main] INFO  org.jsoup.Connection$Base - CCO Select All Parameters
+19:06:37.826 [main] INFO  org.jsoup.Connection$Base - CCO Work Is Done
+19:06:54.176 [main] INFO  org.jsoup.Connection$Base - CRO login
+19:06:57.706 [main] INFO  org.jsoup.Connection$Base - CRO DASHBOARD
+19:07:32.035 [main] INFO  org.jsoup.Connection$Base - CRO Select All Parameters
+19:07:34.345 [main] INFO  org.jsoup.Connection$Base - CRO Select All Parameters
+19:07:36.728 [main] INFO  org.jsoup.Connection$Base - CRO Work Is Done
+19:07:54.065 [main] INFO  org.jsoup.Connection$Base - BDO login
+19:07:55.312 [main] INFO  org.jsoup.Connection$Base - BDO DASHBOARD
+19:10:01.406 [main] INFO  org.jsoup.Connection$Base - BDO login
+19:10:02.565 [main] INFO  org.jsoup.Connection$Base - BDO DASHBOARD
+19:10:40.565 [main] INFO  org.jsoup.Connection$Base - BM login

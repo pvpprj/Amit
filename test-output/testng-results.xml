@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="NelitoLos" duration-ms="262363" started-at="2020-04-02T14:17:57Z" finished-at="2020-04-02T14:22:20Z">
+    <groups>
+    </groups>
+    <test name="BM to BDO" duration-ms="262363" started-at="2020-04-02T14:17:57Z" finished-at="2020-04-02T14:22:20Z">
+      <class name="Nelito.AllUserActivity">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Nelito.AllUserActivity@17fc391b]" name="beforeTest" is-config="true" duration-ms="14400" started-at="2020-04-02T14:17:57Z" finished-at="2020-04-02T14:18:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="NelitoBM()[pri:1, instance:Nelito.AllUserActivity@17fc391b]" name="NelitoBM" duration-ms="66796" started-at="2020-04-02T14:18:12Z" finished-at="2020-04-02T14:19:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NelitoBM -->
+        <test-method status="PASS" signature="NelitoCCO()[pri:2, instance:Nelito.AllUserActivity@17fc391b]" name="NelitoCCO" duration-ms="64265" started-at="2020-04-02T14:19:19Z" finished-at="2020-04-02T14:20:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NelitoCCO -->
+        <test-method status="PASS" signature="NelitoCRO()[pri:3, instance:Nelito.AllUserActivity@17fc391b]" name="NelitoCRO" duration-ms="68087" started-at="2020-04-02T14:20:23Z" finished-at="2020-04-02T14:21:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NelitoCRO -->
+        <test-method status="PASS" signature="NelitoBDO()[pri:4, instance:Nelito.AllUserActivity@17fc391b]" name="NelitoBDO" duration-ms="48517" started-at="2020-04-02T14:21:31Z" finished-at="2020-04-02T14:22:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NelitoBDO -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:Nelito.AllUserActivity@17fc391b]" name="afterTest" is-config="true" duration-ms="187" started-at="2020-04-02T14:22:19Z" finished-at="2020-04-02T14:22:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Nelito.AllUserActivity -->
+    </test> <!-- BM to BDO -->
+  </suite> <!-- NelitoLos -->
+</testng-results>

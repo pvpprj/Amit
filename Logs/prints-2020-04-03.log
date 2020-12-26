@@ -1,0 +1,29 @@
+19:34:49.259 [main] INFO  org.jsoup.Connection$Base - BM login
+19:35:52.885 [main] INFO  org.jsoup.Connection$Base - BM login
+19:35:56.526 [main] INFO  org.jsoup.Connection$Base - BM DASHBOARD
+19:42:15.516 [main] INFO  org.jsoup.Connection$Base - BM login
+19:42:25.314 [main] INFO  org.jsoup.Connection$Base - BM DASHBOARD
+19:44:42.514 [main] INFO  org.jsoup.Connection$Base - BM login
+19:44:47.181 [main] INFO  org.jsoup.Connection$Base - BM DASHBOARD
+19:48:20.297 [main] INFO  org.jsoup.Connection$Base - BM login
+19:48:23.908 [main] INFO  org.jsoup.Connection$Base - BM DASHBOARD
+19:49:05.310 [main] INFO  org.jsoup.Connection$Base - BM Select All Parameters
+19:49:05.555 [main] INFO  org.jsoup.Connection$Base - BM Enter the Remark
+19:49:09.991 [main] INFO  org.jsoup.Connection$Base - BM Work Is Done
+19:49:27.469 [main] INFO  org.jsoup.Connection$Base - CCO login
+19:49:29.428 [main] INFO  org.jsoup.Connection$Base - CCO DASHBOARD
+19:49:33.852 [main] INFO  org.jsoup.Connection$Base - CCO Select All Parameters
+19:50:11.716 [main] INFO  org.jsoup.Connection$Base - CCO Enter the Remark
+19:50:14.080 [main] INFO  org.jsoup.Connection$Base - CCO Work Is Done
+19:50:32.055 [main] INFO  org.jsoup.Connection$Base - CRO login
+19:50:36.517 [main] INFO  org.jsoup.Connection$Base - CRO DASHBOARD
+19:51:17.454 [main] INFO  org.jsoup.Connection$Base - CRO Select All Parameters
+19:51:19.713 [main] INFO  org.jsoup.Connection$Base - CRO Enter the Remark
+19:51:22.082 [main] INFO  org.jsoup.Connection$Base - CRO Work Is Done
+19:51:39.159 [main] INFO  org.jsoup.Connection$Base - BDO login
+19:51:40.891 [main] INFO  org.jsoup.Connection$Base - BDO DASHBOARD
+19:52:06.341 [main] INFO  org.jsoup.Connection$Base - BDO Select All Parameters
+19:52:06.587 [main] INFO  org.jsoup.Connection$Base - BDO Enter the Remark
+19:52:10.864 [main] INFO  org.jsoup.Connection$Base - BDO Work Is Done
+20:26:20.381 [main] INFO  org.jsoup.Connection$Base - BM login
+20:26:24.403 [main] INFO  org.jsoup.Connection$Base - BM DASHBOARD
